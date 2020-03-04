@@ -1,10 +1,8 @@
-# Sniamod :: domains
+# Sniamod 
 
-for 
-getting,
-Hosting,
-managing,
-planing,
-selling,
-...,
-,,,
+## Domainer Rzrs 
++ Getting
++ Hosting
++ Managing
++ Planing
++ Selling
