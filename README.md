@@ -6,3 +6,10 @@
 + Managing
 + Planing
 + Selling
+
+
+
+
+## TODO
++ [ ] LOGO
++ [ ] Grow
